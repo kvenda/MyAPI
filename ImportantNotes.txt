@@ -1,2 +1,0 @@
-﻿Need to disable SSL validation in Insomnia, or Postman (not sure how to do this inPOstman, but it was wasy in Insomnia)
-
